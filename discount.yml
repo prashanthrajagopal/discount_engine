@@ -1,0 +1,14 @@
+---
+employee:
+  30
+affiliate:
+  10
+loyal_customer:
+  5
+exempted:
+  chocolate
+step_discount:
+  steps:
+    100
+  discount:
+    5
